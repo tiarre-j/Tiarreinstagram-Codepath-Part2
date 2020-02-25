@@ -1,8 +1,8 @@
 # Project 3 - *Codepath- Part2 
 
-**mondoinstagram** is a photo sharing app similar to Instagram but using Parse as its backend.
+**Tiarreinstagram** is a photo sharing app similar to Instagram but using Parse as its backend.
 
-Time spent: **24** hours spent in total
+Time spent: **25** hours spent in total
 
 ## User Stories
 
@@ -34,7 +34,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='mondo-instagram-part2.gif' width='' alt='Video Walkthrough' />
+<img src='Tiarre-instagram-part2.gif' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
